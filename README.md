@@ -1,4 +1,4 @@
-# SumarizeText
+# SummarizeText
 
 A Python application that automatically summarizes PDF documents using LangChain and OpenAI's GPT-3.5 model.
 
